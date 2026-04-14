@@ -6,7 +6,7 @@ class SistemaInventario:
         print(f"Verificando stock de {producto}...")
         return True
 
-
+"""merequetengue"""
 class SistemaEnvio:
     def organizar_envio(self, producto: str) -> None:
         print(f"Organizando el envio para {producto}...")
